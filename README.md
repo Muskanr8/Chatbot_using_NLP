@@ -1,2 +1,5 @@
-# Chatbot_using_NLP-
-This project builds a chatbot using NLP techniques like text preprocessing, tokenization, and intent recognition. It leverages Python and NLP libraries (NLTK, spaCy) for accurate response generation. The chatbot can process user queries and provide relevant responses using machine learning models.
+# Chatbot_using_NLP
+To run streamlit use the command as
+
+streamlit run chatbot.py
+The above command has to be run in command prompt by navigating to the folder or using VSC terminal or Terminal of Mac. But navigating to the folder where you have script is important.
